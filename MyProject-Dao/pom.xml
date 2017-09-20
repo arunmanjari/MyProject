@@ -3,8 +3,9 @@
   <parent>
     <groupId>org.arun.learn</groupId>
     <artifactId>MyProject</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
   </parent>
   <artifactId>MyProject-Dao</artifactId>
   <groupId>org.arun.learn</groupId>
+  <version>0.0.2-SNAPSHOT</version>
 </project>
